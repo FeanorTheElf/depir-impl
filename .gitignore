@@ -1,0 +1,4 @@
+/target
+.vs
+poly-batch-eval/x64
+x64

@@ -10,3 +10,9 @@ In addition to the main implementation in Rust, we accelerate the computation of
 This is the code in `poly-batch-eval`.
 When running it, make sure that the parameters `d` and `m` match the ones of the interpolation polynomial. 
 The implementation is quite naive, since the performance of this step is not the focus of our work.
+
+# References
+
+[LMW23] W. Lin, E. Mook, D. Wichs. “Near-Optimal Private Information Retrieval with Preprocessing”. In: IACR Cryptol. ePrint Arch. (2022), p. 830.
+
+[OPPW23] Hiroki Okada, Rachel Player, Simon Pohmann, and Christian Weinert. Towards practical doubly-efficient private information retrieval. Cryptology ePrint Archive, Paper 2023/1510, 2023.
